@@ -1,7 +1,5 @@
 # Marketing-Customer-Analytics-Training
 A list of online courses and resources for marketing and customer analytics
-# Online-Big-Data-Training
-A compiled list of online big data training courses
 
  
 ### Experfy Courses
